@@ -53,4 +53,4 @@ numberButtons.forEach(button => {
         calculator.appendNumber(button.innerText)
         calculator.updateDisplay() // cont
     })
-}) //comment
+}) //comment2
